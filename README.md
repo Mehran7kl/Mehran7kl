@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mehran7kl
-- 👀 I’m interested in java, js and web
-- 🌱 I’m currently learning Android API and back-end web and c++
-- 💞️ I’m looking to collaborate on my interests
+- 👋 Hi, I’m Mehran
+- 👀 I’m interested everything realted to computers including programming and graphics
+- 🌱 I’m currently not so active in the mentioned topis
+- 💞️ I’m looking to collaborate on my interests.
 - 📫 How to reach me?! "send your message in GitHub".
 
 
